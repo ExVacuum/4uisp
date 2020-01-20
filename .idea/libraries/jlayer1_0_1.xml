@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="jlayer1.0.1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../FRC/jlayer1.0.1.zip!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$PROJECT_DIR$/../FRC/jlayer1.0.1.zip!/JLayer1.0.1/doc" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../FRC/jlayer1.0.1.zip!/JLayer1.0.1/src" />
+      <root url="jar://$PROJECT_DIR$/../FRC/jlayer1.0.1.zip!/JLayer1.0.1/srctest" />
+    </SOURCES>
+  </library>
+</component>
